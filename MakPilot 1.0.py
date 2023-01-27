@@ -13,6 +13,7 @@ import time
 
 from Truck import Truck
 
+#path to model
 model_directory = 'truckdrivemodelV3.h5'
 
 
@@ -28,6 +29,7 @@ time.sleep(1)
 
 actros = Truck()
 
+#accelerating forward for two seconds
 actros.forward(2)
 
 print('***MakPilot Engaged***')
