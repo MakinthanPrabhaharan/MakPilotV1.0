@@ -13,7 +13,7 @@ import time
 
 from Truck import Truck
 
-model_directory = 'C:\\Users\\padch\\Documents\\JupyterNotebookFiles\\truckdrivemodelV3.h5'
+model_directory = 'truckdrivemodelV3.h5'
 
 
 import os
